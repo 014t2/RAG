@@ -43,7 +43,7 @@ ollama pull llama3.2
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/014t2/RAG
    cd <nombre-del-proyecto>
    ```
 
