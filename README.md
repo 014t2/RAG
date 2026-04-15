@@ -75,7 +75,7 @@ Este script:
 - Carga todos los documentos de `data/`
 - Los divide en fragmentos de 1000 caracteres (con 200 de solapamiento)
 - Genera los embeddings con el modelo multilingüe
-- Crear y guarda la base de datos vectorial en `db/`
+- Crear `db/` y guarda la base de datos vectorial en `db/`
 
 ### 2. Iniciar el chatbot
 
